@@ -1,6 +1,8 @@
 ## Welcome to my github page 🙂
 
-![Emmanuel Ani](IMG_5672.JPG)
+<div align="center">
+  <img src="" width="550" height="550"/>
+</div>
 
 ## About me 🙂
 
