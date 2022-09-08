@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Welcome to my github page 🙂
 
 #### My Name is Emmanuel Ani, a Data Analayst, Data Scientist and Tech Enthusiast from Lagos Nigeria. 
