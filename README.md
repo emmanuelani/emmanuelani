@@ -1,6 +1,6 @@
 ## Welcome to my github page 🙂
 
-![Emmanuel Ani]()
+![Emmanuel Ani](IMG_5672.JPG)
 
 ## About me 🙂
 
