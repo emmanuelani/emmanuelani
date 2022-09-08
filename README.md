@@ -1,7 +1,7 @@
 ## Welcome to my github page 🙂
 
 <div align="center">
-  <img src="" width="550" height="550"/>
+  <img src="IMG_5672.JPG" width="500" height="500"/>
 </div>
 
 ## About me 🙂
