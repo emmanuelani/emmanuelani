@@ -14,11 +14,11 @@
   <h1> About me 🙂 </h1>
  </div>
 
-<h3> My Name is Emmanuel Ani, a Data Analayst, Data Scientist and Tech Enthusiast from Lagos Nigeria. </h3>
+<h4> My Name is Emmanuel Ani, a Data Analayst, Data Scientist and Tech Enthusiast from Lagos Nigeria. </h4>
 
-<h3> I am proficient in Python, SQL, Bash and other Data Analytics tools like Excel, Tableau and Power BI. I can work with Data to extract insights using both traditional analytics technique and Machine Learning. </h3>
+<h4> I am proficient in Python, SQL, Bash and other Data Analytics tools like Excel, Tableau and Power BI. I can work with Data to extract insights using both traditional analytics technique and Machine Learning. </h4>
 
-<h3> I am open to any project collaboration in Machine Learning and Artificial Intelligence. I am also open to work as a Data Analyst or Data Scientist. </h3>
+<h4> I am open to any project collaboration in Machine Learning and Artificial Intelligence. I am also open to work as a Data Analyst or Data Scientist. </h4>
 
 <div align='center'>
   <h2> Social media link </h2>
