@@ -21,9 +21,8 @@
 <h4> I am open to any project collaboration in Machine Learning and Artificial Intelligence. I am also open to work as a Data Analyst or Data Scientist. </h4>
 
 <div align='center'>
-  <h2> Social media link </h2>
+  <h2> Social media links </h2>
 </div>
-  
 * Let's connect on [Linkedin](https://www.linkedin.com/in/emmanuel-ani-b2b680202)
 * Follow me on [Twitter](https://twitter.com/emmanuelani_)
 * Follow me on [Kaggle](https://www.kaggle.com/emmanuelani) 
