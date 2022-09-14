@@ -2,13 +2,17 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-## Hey there! Welcome to my github page 🙂
+<div align='center'>
+  <h2> Hey there! Welcome to my github page 🙂 <h2/>
+</div>
 
 <div align="center">
   <img src="IMG_5672.JPG" width="400" height="350"/>
 </div>
 
-## About me 🙂
+<div align='center'>
+  <h3> About me 🙂 </h3>
+  </div>
 
 #### My Name is Emmanuel Ani, a Data Analayst, Data Scientist and Tech Enthusiast from Lagos Nigeria. 
 
