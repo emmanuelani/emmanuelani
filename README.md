@@ -22,9 +22,10 @@
 
 <div align='center'>
   <h2> Social media link </h2>
-  <ul>
-    <li> <h4> Let's connect on </h4> <a href="https://www.linkedin.com/in/emmanuel-ani-b2b680202"> LinkedIn </a> </li>
-    <li> Follow me on [Twitter](https://twitter.com/emmanuelani_) </li>
-    <li> Follow me on [Kaggle](https://www.kaggle.com/emmanuelani) </li>
-  </ul>
 </div>
+  <ul>
+* Let's connect on [Linkedin](https://www.linkedin.com/in/emmanuel-ani-b2b680202)
+* Follow me on [Twitter](https://twitter.com/emmanuelani_)
+* Follow me on [Kaggle](https://www.kaggle.com/emmanuelani) 
+
+
