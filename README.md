@@ -22,7 +22,9 @@
 
 <div align='center'>
   <h2> Social media link </h2>
-  * Let's connect on [Linkedin](https://www.linkedin.com/in/emmanuel-ani-b2b680202)
-  * Follow me on [Twitter](https://twitter.com/emmanuelani_)
-  * Follow me on [Kaggle](https://www.kaggle.com/emmanuelani)
+  <ul>
+    <li> Let's connect on [Linkedin](https://www.linkedin.com/in/emmanuel-ani-b2b680202) </li>
+    <li> Follow me on [Twitter](https://twitter.com/emmanuelani_) </li>
+    <li> Follow me on [Kaggle](https://www.kaggle.com/emmanuelani) </li>
+  </ul>
 </div>
