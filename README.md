@@ -11,8 +11,8 @@
 </div>
 
 <div align='center'>
-  <h3> About me 🙂 </h3>
-  </div>
+  <h2> About me 🙂 </h3>
+ </div>
 
 #### My Name is Emmanuel Ani, a Data Analayst, Data Scientist and Tech Enthusiast from Lagos Nigeria. 
 
