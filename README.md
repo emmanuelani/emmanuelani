@@ -6,10 +6,6 @@
   <h2> Hey there! Welcome to my github page 🙂 <h2/>
 </div>
 
-<div align="center">
-  <img src="IMG_5672.JPG" width="400" height="350"/>
-</div>
-
 <div align='center'>
   <h1> About me 🙂 </h1>
  </div>
