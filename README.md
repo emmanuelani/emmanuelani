@@ -4,7 +4,7 @@
 
   <h2> Hey there! Welcome to my github page 🙂 <h2/>
 
-<div align='center'>
+<div align='left'>
   <h1> About me 🙂 </h1>
  </div>
 
@@ -14,7 +14,7 @@
 
 <h4> I am open to any project collaboration in Machine Learning and Artificial Intelligence. I am also open to work as a Data Analyst or Data Scientist. </h4>
 
-<div align='center'>
+<div align='left'>
   <h2> Social media links </h2>
 </div>
   
