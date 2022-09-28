@@ -15,6 +15,6 @@
 </div>
   
 * Let's connect on [![Linkedin]([https://www.linkedin.com/in/emmanuel-ani-b2b680202](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-ani/)
-* [![Twitter](https://img.shields.io/badge/temmyzeus-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/temmyzeus100)
+* [![Twitter](https://img.shields.io/badge/temmyzeus-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/emmanuelani_)
 * [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](emmanuelani234@gmail.com)
 https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-ani/
