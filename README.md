@@ -4,10 +4,6 @@
 
   <h2> Hey there! Welcome to my github page 🙂 <h2/>
 
-<div align='left'>
-  <h1> About me 🙂 </h1>
- </div>
-
 <h4> My Name is Emmanuel Ani, a Data Analayst, Data Scientist and Tech Enthusiast from Lagos Nigeria. </h4>
 
 <h4> I am proficient in Python, SQL, Bash and other Data Analytics tools like Excel, Tableau and Power BI. I can work with Data to extract insights using both traditional analytics technique and Machine Learning. </h4>
